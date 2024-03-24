@@ -1,0 +1,1 @@
+rasdial "VPN" vpnbook b7dh4n3 /phonebook:"E:\github_projeler\ipnomicon\bin\Debug\VPN\VpnConnection.pbk"

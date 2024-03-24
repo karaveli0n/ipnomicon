@@ -1,0 +1,6 @@
+[VPN]
+MEDIA=rastapi
+Port=VPN2-0
+Device=WAN Miniport (IKEv2)
+DEVICE=vpn
+PhoneNumber=CA196.vpnbook.com
